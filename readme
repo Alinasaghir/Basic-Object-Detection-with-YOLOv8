@@ -1,1 +1,2 @@
-yolov5 training
+Trained a built-in YOLOv8 model for detecting common objects like persons, bicycles, and cars using a custom dataset. Achieved accurate and real-time detection performance.
+
