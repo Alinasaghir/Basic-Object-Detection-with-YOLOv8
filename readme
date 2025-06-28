@@ -1,10 +1,10 @@
-# 🖼️ **YOLOv8 Object Detection Project**
+# 🖼️ YOLOv8 Object Detection Project
 
 This is a basic introductory computer vision project where a built-in **YOLOv8** model was trained on a custom dataset to detect common objects such as persons, bicycles, and cars. The project demonstrates real-time and accurate object detection using state-of-the-art deep learning techniques.
 
 ---
 
-## 🚀 **Features**
+## 🚀 Features
 
 - **Custom Dataset Training**  
   Trained YOLOv8 on user-provided images to recognize specific object classes.
@@ -20,7 +20,7 @@ This is a basic introductory computer vision project where a built-in **YOLOv8**
 
 ---
 
-## 🧠 **Technologies Used**
+## 🧠 Technologies Used
 
 - **Python**  
 - **YOLOv8 (Ultralytics)** – For object detection  
@@ -28,16 +28,16 @@ This is a basic introductory computer vision project where a built-in **YOLOv8**
 
 ---
 
-## 📌 **Use Case**
+## 📌 Use Case
 
 This project serves as a practical introduction to computer vision, object detection, and deep learning models, suitable for beginners looking to understand how YOLOv8 works on custom data.
 
 ---
 
-## 🤝 **Contributions**
+## 🤝 Contributions
 
 Contributions and enhancements are welcome to expand the dataset, improve detection accuracy, or add new functionalities.
 
 ---
 
-⭐ **If you find this project helpful, please give it a star!**
+⭐ If you find this project helpful, please give it a star!
